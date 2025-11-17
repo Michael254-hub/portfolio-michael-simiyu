@@ -230,7 +230,7 @@ function App() {
             <div className="grid grid-cols-2 gap-6 animate-fadeInRight">
               <div className="bg-gray-700 p-6 rounded-lg text-center hover:bg-gray-600 transition-all duration-300 transform hover:scale-105 hover:shadow-lg">
                 <div className="text-3xl font-bold text-yellow-400 mb-2">
-                  50+
+                  5+
                 </div>
                 <div className="text-gray-300">Projects Completed</div>
               </div>
@@ -242,7 +242,7 @@ function App() {
               </div>
               <div className="bg-gray-700 p-6 rounded-lg text-center hover:bg-gray-600 transition-all duration-300 transform hover:scale-105 hover:shadow-lg">
                 <div className="text-3xl font-bold text-orange-400 mb-2">
-                  30+
+                  3+
                 </div>
                 <div className="text-gray-300">Happy Clients</div>
               </div>
@@ -456,12 +456,11 @@ function App() {
               </div>
               <div className="p-6">
                 <h3 className="text-xl font-semibold mb-3 text-white group-hover:text-yellow-300 transition-colors duration-300">
-                  E-Commerce Platform
+                   Gifted Chana Crafts
                 </h3>
                 <p className="text-gray-300 mb-4 group-hover:text-gray-200 transition-colors duration-300">
-                  A full-stack e-commerce solution built with React, Node.js,
-                  and PostgreSQL. Features include user authentication, payment
-                  processing, and admin dashboard.
+                  An e-commerce solution built with React, Node.js,
+                  and PostgreSQL.
                 </p>
                 <div className="flex flex-wrap gap-2 mb-4">
                   {["React", "Node.js", "PostgreSQL", "Stripe"].map((tech) => (
@@ -475,16 +474,10 @@ function App() {
                 </div>
                 <div className="flex space-x-4">
                   <a
-                    href="#"
+                    href="https://www.giftedchanacrafts.com"
                     className="text-yellow-400 hover:text-yellow-300 transition-colors duration-200 hover:underline"
                   >
                     Live Demo
-                  </a>
-                  <a
-                    href="#"
-                    className="text-gray-400 hover:text-gray-300 transition-colors duration-200 hover:underline"
-                  >
-                    GitHub
                   </a>
                 </div>
               </div>
@@ -509,12 +502,12 @@ function App() {
                       />
                     </svg>
                   </div>
-                  <h3 className="text-xl font-semibold">Task Management App</h3>
+                  <h3 className="text-xl font-semibold">E-commerce App</h3>
                 </div>
               </div>
               <div className="p-6">
                 <h3 className="text-xl font-semibold mb-3 text-white group-hover:text-orange-300 transition-colors duration-300">
-                  Task Management App
+                  Table Tennis Equipment E-commerce
                 </h3>
                 <p className="text-gray-300 mb-4 group-hover:text-gray-200 transition-colors duration-300">
                   A collaborative task management application with real-time
@@ -540,12 +533,6 @@ function App() {
                   >
                     Live Demo
                   </a>
-                  <a
-                    href="#"
-                    className="text-gray-400 hover:text-gray-300 transition-colors duration-200 hover:underline"
-                  >
-                    GitHub
-                  </a>
                 </div>
               </div>
             </div>
@@ -569,12 +556,12 @@ function App() {
                       />
                     </svg>
                   </div>
-                  <h3 className="text-xl font-semibold">Analytics Dashboard</h3>
+                  <h3 className="text-xl font-semibold">Twenty Four Seven Services</h3>
                 </div>
               </div>
               <div className="p-6">
                 <h3 className="text-xl font-semibold mb-3 text-white group-hover:text-orange-300 transition-colors duration-300">
-                  Analytics Dashboard
+                  Twenty Four Seven Services
                 </h3>
                 <p className="text-gray-300 mb-4 group-hover:text-gray-200 transition-colors duration-300">
                   A comprehensive analytics dashboard with interactive charts,
@@ -593,16 +580,10 @@ function App() {
                 </div>
                 <div className="flex space-x-4">
                   <a
-                    href="#"
+                    href="https://www.24-7solutions.co.ke"
                     className="text-yellow-400 hover:text-yellow-300 transition-colors duration-200 hover:underline"
                   >
                     Live Demo
-                  </a>
-                  <a
-                    href="#"
-                    className="text-gray-400 hover:text-gray-300 transition-colors duration-200 hover:underline"
-                  >
-                    GitHub
                   </a>
                 </div>
               </div>
@@ -729,7 +710,7 @@ function App() {
                 </h4>
                 <div className="flex space-x-4">
                   <a
-                    href="#"
+                    href="https://x.com/myc_ole"
                     className="w-10 h-10 bg-gray-700 rounded-lg flex items-center justify-center hover:bg-yellow-500 hover:scale-110 transition-all duration-300"
                   >
                     <svg
@@ -741,7 +722,7 @@ function App() {
                     </svg>
                   </a>
                   <a
-                    href="#"
+                    href="https://www.linkedin.com/in/michael-simiyu-102a2a285/"
                     className="w-10 h-10 bg-gray-700 rounded-lg flex items-center justify-center hover:bg-orange-600 hover:scale-110 transition-all duration-300"
                   >
                     <svg
@@ -753,7 +734,7 @@ function App() {
                     </svg>
                   </a>
                   <a
-                    href="#"
+                    href="https://github.com/Michael254-hub"
                     className="w-10 h-10 bg-gray-700 rounded-lg flex items-center justify-center hover:bg-gray-600 hover:scale-110 transition-all duration-300"
                   >
                     <svg
