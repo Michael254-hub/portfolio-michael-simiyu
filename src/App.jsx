@@ -230,19 +230,19 @@ function App() {
             <div className="grid grid-cols-2 gap-6 animate-fadeInRight">
               <div className="bg-gray-700 p-6 rounded-lg text-center hover:bg-gray-600 transition-all duration-300 transform hover:scale-105 hover:shadow-lg">
                 <div className="text-3xl font-bold text-yellow-400 mb-2">
-                  5+
+                  10+
                 </div>
                 <div className="text-gray-300">Projects Completed</div>
               </div>
               <div className="bg-gray-700 p-6 rounded-lg text-center hover:bg-gray-600 transition-all duration-300 transform hover:scale-105 hover:shadow-lg">
                 <div className="text-3xl font-bold text-orange-400 mb-2">
-                  1+
+                  2+
                 </div>
                 <div className="text-gray-300">Years Experience</div>
               </div>
               <div className="bg-gray-700 p-6 rounded-lg text-center hover:bg-gray-600 transition-all duration-300 transform hover:scale-105 hover:shadow-lg">
                 <div className="text-3xl font-bold text-orange-400 mb-2">
-                  3+
+                  5+
                 </div>
                 <div className="text-gray-300">Happy Clients</div>
               </div>
