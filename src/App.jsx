@@ -451,16 +451,16 @@ function App() {
                       />
                     </svg>
                   </div>
-                  <h3 className="text-xl font-semibold">E-Commerce Platform</h3>
+                  <h3 className="text-xl font-semibold">Gifted Chana Crafts</h3>
                 </div>
               </div>
               <div className="p-6">
                 <h3 className="text-xl font-semibold mb-3 text-white group-hover:text-yellow-300 transition-colors duration-300">
-                   Gifted Chana Crafts
+                  Gifted Chana Crafts
                 </h3>
                 <p className="text-gray-300 mb-4 group-hover:text-gray-200 transition-colors duration-300">
-                  An e-commerce solution built with React, Node.js,
-                  and PostgreSQL.
+                  An e-commerce solution built with React, Node.js, and
+                  PostgreSQL.
                 </p>
                 <div className="flex flex-wrap gap-2 mb-4">
                   {["React", "Node.js", "PostgreSQL", "Stripe"].map((tech) => (
@@ -502,17 +502,17 @@ function App() {
                       />
                     </svg>
                   </div>
-                  <h3 className="text-xl font-semibold">E-commerce App</h3>
+                  <h3 className="text-xl font-semibold">Metro Sports Arena</h3>
                 </div>
               </div>
               <div className="p-6">
                 <h3 className="text-xl font-semibold mb-3 text-white group-hover:text-orange-300 transition-colors duration-300">
-                  Table Tennis Equipment E-commerce
+                  Metro Sports Arena
                 </h3>
                 <p className="text-gray-300 mb-4 group-hover:text-gray-200 transition-colors duration-300">
-                  A collaborative task management application with real-time
-                  updates, team collaboration features, and advanced project
-                  tracking capabilities.
+                  Your Table Tennis Partner in Kenya. Premium equipment for
+                  players of all levels. From beginners to professionals, we
+                  have everything you need to excel in table tennis.
                 </p>
                 <div className="flex flex-wrap gap-2 mb-4">
                   {["Vue.js", "Express.js", "Socket.io", "MongoDB"].map(
@@ -528,7 +528,7 @@ function App() {
                 </div>
                 <div className="flex space-x-4">
                   <a
-                    href="#"
+                    href="https://metro-sports.vercel.app/"
                     className="text-yellow-400 hover:text-yellow-300 transition-colors duration-200 hover:underline"
                   >
                     Live Demo
@@ -556,7 +556,9 @@ function App() {
                       />
                     </svg>
                   </div>
-                  <h3 className="text-xl font-semibold">Twenty Four Seven Services</h3>
+                  <h3 className="text-xl font-semibold">
+                    Twenty Four Seven Services
+                  </h3>
                 </div>
               </div>
               <div className="p-6">
@@ -564,9 +566,7 @@ function App() {
                   Twenty Four Seven Services
                 </h3>
                 <p className="text-gray-300 mb-4 group-hover:text-gray-200 transition-colors duration-300">
-                  A comprehensive analytics dashboard with interactive charts,
-                  real-time data visualization, and customizable reporting
-                  features.
+                  Maintenance & Repair Services.
                 </p>
                 <div className="flex flex-wrap gap-2 mb-4">
                   {["React", "D3.js", "Python", "FastAPI"].map((tech) => (
