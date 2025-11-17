@@ -462,7 +462,7 @@ function App() {
                   An e-commerce solution built with React, Node.js, and
                   PostgreSQL.
                 </p>
-                <div className="flex flex-wrap gap-2 mb-4">
+                {/* <div className="flex flex-wrap gap-2 mb-4">
                   {["React", "Node.js", "PostgreSQL", "Stripe"].map((tech) => (
                     <span
                       key={tech}
@@ -471,7 +471,7 @@ function App() {
                       {tech}
                     </span>
                   ))}
-                </div>
+                </div> */}
                 <div className="flex space-x-4">
                   <a
                     href="https://www.giftedchanacrafts.com"
@@ -514,7 +514,7 @@ function App() {
                   players of all levels. From beginners to professionals, we
                   have everything you need to excel in table tennis.
                 </p>
-                <div className="flex flex-wrap gap-2 mb-4">
+                {/* <div className="flex flex-wrap gap-2 mb-4">
                   {["Vue.js", "Express.js", "Socket.io", "MongoDB"].map(
                     (tech) => (
                       <span
@@ -525,7 +525,7 @@ function App() {
                       </span>
                     )
                   )}
-                </div>
+                </div> */}
                 <div className="flex space-x-4">
                   <a
                     href="https://metro-sports.vercel.app/"
@@ -568,7 +568,7 @@ function App() {
                 <p className="text-gray-300 mb-4 group-hover:text-gray-200 transition-colors duration-300">
                   Maintenance & Repair Services.
                 </p>
-                <div className="flex flex-wrap gap-2 mb-4">
+                {/* <div className="flex flex-wrap gap-2 mb-4">
                   {["React", "D3.js", "Python", "FastAPI"].map((tech) => (
                     <span
                       key={tech}
@@ -577,7 +577,7 @@ function App() {
                       {tech}
                     </span>
                   ))}
-                </div>
+                </div> */}
                 <div className="flex space-x-4">
                   <a
                     href="https://www.24-7solutions.co.ke"
