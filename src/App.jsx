@@ -734,7 +734,7 @@ function App() {
                     </svg>
                   </a>
                   <a
-                    href="https://github.com/Michael254-hub"
+                    href="https://github.com/my-c0de-hub"
                     className="w-10 h-10 bg-gray-700 rounded-lg flex items-center justify-center hover:bg-gray-600 hover:scale-110 transition-all duration-300"
                   >
                     <svg
